@@ -5,4 +5,5 @@ This is a two part side project:
 2. Data Analysis
 
 The Data Collection codes can be find in this repository: https://github.com/timtan-github/Selenium-Web-Scraper
+
 This repository will only hold the codes for the Data Analysis portion.
